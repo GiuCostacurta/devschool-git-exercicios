@@ -1,0 +1,1 @@
+export const GIULIANA_COSTACURTA = "Giuliana Costacurta";
